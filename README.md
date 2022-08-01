@@ -1,5 +1,7 @@
 # Events-And-This-Keyword-Exercise
 
+Try it [here](https://guillaumeauger85.github.io/Events-And-This-Keyword-Exercise/)
+
 ![htmlJs](https://user-images.githubusercontent.com/49698792/182230647-95f3aec2-dbac-4949-a183-f91a4383d12a.png)
 
 DOM manipulation exercise from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
