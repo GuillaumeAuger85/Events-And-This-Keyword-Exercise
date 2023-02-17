@@ -1,4 +1,4 @@
-# Events-And-This-Keyword-Exercise
+# Events And This Keyword Exercise
 
 Try it [here](https://guillaumeauger85.github.io/Events-And-This-Keyword-Exercise/)
 
